@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    margin: 20px;
+    background: linear-gradient(#ed882f 0%, #f2d544 100%)
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    background: solid;
+    padding: 10px;
+    background-color: crimson;
+    border-radius: 50px;
+}
+
+#heading {
+    color: red;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#content {
+    color: blue;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: darkred;
+    margin: 8px auto;
+    text-align: center;
+
+}
